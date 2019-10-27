@@ -6,6 +6,6 @@ Xtreamcodes 2.9 Nulled
 
 ```
 apt install python -y
-wget https://raw.githubusercontent.com/tweakunwanted/xc-2.9-admin/master/install.py 
+wget https://github.com/apocarpio/xc-2.9-admin/raw/master/install.py 
 python install.py
 ```
